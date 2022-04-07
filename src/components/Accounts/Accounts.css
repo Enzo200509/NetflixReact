@@ -1,0 +1,18 @@
+.Block{
+    height: 192px;
+    width: 192px;
+    background-color: gray;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+.Block:hover{
+    border:  solid white;
+    cursor: pointer;
+}
+p{
+    color: #fff;
+}
+
+img{
+    height: 97%;
+}
